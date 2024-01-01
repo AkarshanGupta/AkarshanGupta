@@ -9,7 +9,7 @@ My journey began with crafting web visuals, then I dived into React's interactiv
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [Akarshan](http://xyz)
 * ✉️  You can contact me at [akarshangupta14@gmail.com](mailto:akarshangupta14@gmail.com)
-* 🚀  I'm currently working on [my portfolio](http://xyz)
+* 🚀  I'm currently working on **AlgoWiz2**
 * 🧠  I'm learning Cloud Computing
 * 🤝  I'm open to collaborating on Data Science , React js
 
