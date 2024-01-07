@@ -44,7 +44,7 @@ My journey began with crafting web visuals, then I dived into React's interactiv
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -106,5 +106,5 @@ My journey began with crafting web visuals, then I dived into React's interactiv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-###![image](https://github.com/AkarshanGupta/AkarshanGupta/assets/115368981/75f8cdb7-ac02-4386-a91c-848de79afb6d)
+![image](https://github.com/AkarshanGupta/AkarshanGupta/assets/115368981/75f8cdb7-ac02-4386-a91c-848de79afb6d)
 
