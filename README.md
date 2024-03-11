@@ -12,6 +12,7 @@ My journey began with crafting web visuals, then I dived into React's interactiv
 * 🚀  I'm currently working on **AlgoWiz2**
 * 🧠  I'm learning Cloud Computing
 * 🤝  I'm open to collaborating on Data Science , React js
+* 🧑‍💻  Hackerrank and Leetcode Profile [Hackerrank](https://www.hackerrank.com/profile/a1234spam) ,[Leetcode](https://leetcode.com/guptaakarshan/)
 
 ### Skills
 
