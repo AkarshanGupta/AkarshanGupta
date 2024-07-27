@@ -11,7 +11,7 @@ My journey began with crafting web visuals, then I dived into React's interactiv
 * ✉️  You can contact me at [akarshangupta14@gmail.com](mailto:akarshangupta14@gmail.com)
 * 🚀  I'm currently working on **AlgoWiz2**
 * 🧠  I'm learning Go Lang
-* 🤝  I'm open to collaborating on Data Science , React js
+* 🤝  I'm open to collaborating on Data Science fields , React js projects
 * 🧑‍💻  Hackerrank and Leetcode Profile [Hackerrank](https://www.hackerrank.com/profile/a1234spam) ,[Leetcode](https://leetcode.com/guptaakarshan/)
 
 ### Skills
