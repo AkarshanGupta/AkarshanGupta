@@ -10,7 +10,7 @@ My journey began with crafting web visuals, then I dived into React's interactiv
 * 🖥️  See my portfolio at [Akarshan](https://3d-portfolio-avzp-git-main-akarshan-gupta-s-projects.vercel.app/)
 * ✉️  You can contact me at [akarshangupta14@gmail.com](mailto:akarshangupta14@gmail.com)
 * 🚀  I'm currently working on **AlgoWiz2**
-* 🧠  I'm learning Cloud Computing
+* 🧠  I'm learning Go Lang
 * 🤝  I'm open to collaborating on Data Science , React js
 * 🧑‍💻  Hackerrank and Leetcode Profile [Hackerrank](https://www.hackerrank.com/profile/a1234spam) ,[Leetcode](https://leetcode.com/guptaakarshan/)
 
