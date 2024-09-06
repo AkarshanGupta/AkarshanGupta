@@ -14,9 +14,6 @@ My journey began with crafting web visuals, then I dived into React's interactiv
 * 🤝  I'm open to collaborating on Data Science fields , React js projects
 * 🧑‍💻  Hackerrank and Leetcode Profile [Hackerrank](https://www.hackerrank.com/profile/a1234spam) ,[Leetcode](https://leetcode.com/guptaakarshan/)
 
-# 💫 About Me:
-🔭 I’m currently working on Basic Transformer<br>👯 I’m looking to collaborate on Data Scince projects and Open source projects<br>🌱 I’m currently learning GoLang<br>💬 Ask me about any doubt on my projects <br>⚡ Fun fact , I have a club datapioneers
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gupta-akarshan-85970324b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akarshan_11) 
