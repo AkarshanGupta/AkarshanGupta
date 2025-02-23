@@ -7,7 +7,7 @@ Full Stack Web Developer , Data Science and Cloud Engineer
 My journey began with crafting web visuals, then I dived into React's interactivity and data science's hidden meanings. Now, I'm building cloud solutions that reach for the sky.
 
 * 🌍  I'm based in Mumbai
-* 🖥️  See my portfolio at [Akarshan](https://akarshan-kohl.vercel.app/)
+* 🖥️  See my portfolio at [Akarshan](https://akarshan-two.vercel.app/)
 * ✉️  You can contact me at [akarshangupta14@gmail.com](mailto:akarshangupta14@gmail.com)
 * 🚀  I'm currently working on **GPT Lite**
 * 🧠  I'm learning Go Lang
